@@ -23,7 +23,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
  - 显示器：
 	- 三星26.9英寸2K 144Hz 1800R曲面
 
-## bios设置（目前P4.4）
+## Bios设置（目前P4.4）
 - Load UEFI Defaults(F9)
 - Advanced
     - Onboard HD Audio: Enabled
@@ -36,17 +36,17 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 - 开启HWP（bios）设置
    - cpu 芯片组 -> CPU C STATE SUPPORT  ENABLED
    - CFG Lock   Disabled
-   
-   ## 工作状态
 
-   - 1.声卡 OK
-   - 2.网卡 Ok
-   - 3.蓝牙 OK
-   - 4.Airdrop OK  
-   - 5.接力 OK
-   - 6.App store  OK
-   - 7.睡眠 OK
-   - 8.USB&USB2.0扩展&Type C  OK   
-   - 9.双屏显示(待测试)
-   - 10.cpu 变频待测试  开启HWP 待测试
-   - 11.核显加速 待测试
+## 工作状态
+
+- 1.声卡 OK
+- 2.网卡 Ok
+- 3.蓝牙 OK
+- 4.Airdrop OK  
+- 5.接力 OK
+- 6.App store  OK
+- 7.睡眠 OK
+- 8.USB&USB2.0扩展&Type C  OK   
+- 9.双屏显示(待测试)
+- 10.cpu 变频待测试  开启HWP 待测试
+- 11.核显加速 待测试
