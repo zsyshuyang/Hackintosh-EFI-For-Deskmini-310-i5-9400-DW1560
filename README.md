@@ -11,6 +11,16 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 先搬运：https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700
 的EFI试试看再调整。感谢isNextJuly。
 
+## 更新
+- 2020-03-31     
+    - 更新WhateverGreen 1.3.8-t3测试版驱动，解决开机、睡眠黑屏问题
+    (mushizhizhi提供，http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1850729&highlight=10.15.4%2B%BA%DA%C6%C1)
+
+ - 2020-03-26     
+    - 更新Clover 5107   
+    - 更新WhateverGreen 1.3.8
+    - 更新Lilu 1.4.3
+
 ## 配置：
  - CPU: i5-9400
  - 内存：金士顿 DDR4 2666MHz 8GB x 2
