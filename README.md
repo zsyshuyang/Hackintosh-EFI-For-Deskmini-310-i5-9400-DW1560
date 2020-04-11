@@ -79,9 +79,9 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 - CPU-S CPU变频测试  http://bbs.pcbeta.com/viewthread-1698338-1-1.html
 
 ## 致谢
-acidanthera:  https://github.com/acidanthera
-isNextJuly：https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700
-mushizhizhi：http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1850729&highlight=10.15.4%2B%BA%DA%C6%C1
+ - acidanthera:  https://github.com/acidanthera
+ - isNextJuly：https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700
+ - mushizhizhi：http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1850729&highlight=10.15.4%2B%BA%DA%C6%C1
 
 
 
