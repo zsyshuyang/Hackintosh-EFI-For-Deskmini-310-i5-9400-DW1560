@@ -12,6 +12,14 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 的EFI试试看再调整。感谢isNextJuly。
 
 ## 更新
+- 2020-04-11
+    - 安装10.15.4补充更新，无痛升级。
+    
+- 2020-04-06
+    - 更新Clover_v5108
+    - 更新Lilu_v1.4.3、WhatevenGreen_v1.3.8、AppleALC_v1.4.8、
+    - 更新VirtualSMC_v1.1.2、BrcmBluetoothInjector_v2.5.2.kext等
+
 - 2020-03-31     
     - 更新WhateverGreen 1.3.8-t3测试版驱动，解决开机、睡眠黑屏问题
     (mushizhizhi提供，http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1850729&highlight=10.15.4%2B%BA%DA%C6%C1)
