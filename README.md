@@ -17,7 +17,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
     
 - 2020-04-06
     - 更新Clover_v5108
-    - 更新Lilu_v1.4.3、WhatevenGreen_v1.3.8、AppleALC_v1.4.8、
+    - 更新正式版Lilu_v1.4.3、WhatevenGreen_v1.3.8、AppleALC_v1.4.8
     - 更新VirtualSMC_v1.1.2、BrcmBluetoothInjector_v2.5.2.kext等
 
 - 2020-03-31     
@@ -39,6 +39,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
  - 风扇：猫扇L9i
  - 无线网卡：BCM94352_DW1560_拆机卡
  - 显示器：
+       - 优派23.6寸4K VX2478-4K-HD
 	- 三星26.9英寸2K 144Hz 1800R曲面
 
 ## Bios设置（目前P4.4）
