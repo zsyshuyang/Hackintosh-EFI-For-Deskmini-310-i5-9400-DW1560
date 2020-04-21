@@ -1,14 +1,14 @@
 # Hackintosh-EFI-For-Deskmini-310-i5-9400
 
 ## 前言
-去年5月份购买过Deskmini A300，寻思装黑苹果，不过AMD的CPU折腾起来太麻烦，集成显卡也不支持。
 
-所以新购置了Deskmini H310。
-
-关于CPU考虑过i3-8100,四核四线程，不过内存只支持到2400，手头有2666的所以放弃了。
-i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
+个人自用EFI文件，引用整理了诸多前辈的成果，详细见致谢名单。
 
 ## 更新
+
+- 2020-04-21
+    - 更新clover v5113
+
 - 2020-04-11
     - 安装10.15.4补充更新，无痛升级。
     
@@ -26,6 +26,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
     - 更新Lilu 1.4.3
 
 ## 配置
+
  - CPU: i5-9400
  - 内存：金士顿 DDR4 2666MHz 8GB x 2
  - 硬盘：
@@ -39,6 +40,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
     - 三星26.9英寸2K 144Hz 1800R曲面
 
 ## Bios设置（目前P4.4）
+
 - Load UEFI Defaults(F9)
 - Advanced
     - Onboard HD Audio: Enabled
@@ -55,6 +57,7 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 ## 工作状态
 
 ### 正常工作：
+
 - 1.声卡 
 - 2.网卡 
 - 3.蓝牙 
@@ -76,12 +79,20 @@ i5-8400,i5-8500一直想买，可惜缺货。 所以，决定购入i5九代。
 
 ## 工具软件
 
-- CPU-S CPU变频测试  http://bbs.pcbeta.com/viewthread-1698338-1-1.html
+- Clover Configurator: https://mackie100projects.altervista.org/download-clover-configurator/
+- Hackintool: https://github.com/headkaze/Hackintool
+- Kext Utility: http://cvad-mac.narod.ru/index/0-4
+
+## 使用说明
+
+- 需重新生成序列号、SmUUID、UUID
 
 ## 致谢
- - acidanthera:  https://github.com/acidanthera
- - isNextJuly：https://github.com/isNextJuly/Hackintosh-EFI-for-deskmini-310-i7-8700
- - mushizhizhi：http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1850729&highlight=10.15.4%2B%BA%DA%C6%C1
+
+ - acidanthera: https://github.com/acidanthera
+ - daliansky: https://github.com/daliansky/
+ - liminghuang: https://github.com/liminghuang/
+ - isNextJuly：https://github.com/isNextJuly/
 
 
 
