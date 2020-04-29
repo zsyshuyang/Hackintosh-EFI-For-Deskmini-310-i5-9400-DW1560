@@ -79,9 +79,9 @@
 
 ## 工具软件
 
-- Clover Configurator: https://mackie100projects.altervista.org/download-clover-configurator/
-- Hackintool: https://github.com/headkaze/Hackintool
-- Kext Utility: http://cvad-mac.narod.ru/index/0-4
+- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
 
 ## 使用说明
 
@@ -89,10 +89,10 @@
 
 ## 致谢
 
- - acidanthera: https://github.com/acidanthera
- - daliansky: https://github.com/daliansky/
- - liminghuang: https://github.com/liminghuang/
- - isNextJuly：https://github.com/isNextJuly/
+ - [acidanthera](https://github.com/acidanthera)
+ - [daliansky](https://github.com/daliansky/)
+ - [liminghuang](https://github.com/liminghuang/)
+ - [isNextJuly](https://github.com/isNextJuly/)
 
 
 
