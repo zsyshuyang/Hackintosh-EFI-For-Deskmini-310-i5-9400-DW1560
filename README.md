@@ -1,4 +1,5 @@
-<div align=center><img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/Deskmini-H310.png" width="237" height="279" /></div>
+<div align=left><img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/DeskMini-310-frontside.png" width="336" height="280" />
+<img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/DeskMini-310-backside.png" width="336" height="280" /></div>
 
 # Hackintosh-EFI-For-Deskmini-310-i5-9400
 
