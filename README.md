@@ -2,7 +2,6 @@
     <img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/DeskMini-310-1.png" width="336" height="280" />
     <img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/DeskMini-310-2.png" width="336" height="280" />
 </div>
->>>>>>> 79aa038e741ce9b135f5c33be8e2d07b521f3e8e
 
 # Hackintosh-EFI-For-Deskmini-310-i5-9400
 
