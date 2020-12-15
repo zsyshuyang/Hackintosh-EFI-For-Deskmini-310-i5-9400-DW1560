@@ -1,6 +1,3 @@
-
-<img src="https://github.com/zsyshuyang/Hackintosh-EFI-For-Deskmini-310-i5-9400-DW1560/blob/master/DeskMini-310.png" width="336" height="280" />
-
 # Hackintosh-EFI-For-Deskmini-310-i5-9400
 
 ## 前言
@@ -8,6 +5,10 @@
 个人自用EFI文件，引用整理了诸多前辈的成果，详细见致谢名单。
 
 ## 更新
+
+- 2020-12-15
+    - 更换成OC引导，版本0.6.3
+    - 系统更新至11.1
 
 - 2020-04-21
     - 更新clover v5113
@@ -73,18 +74,6 @@
 - 11.核显加速 
 - 12.H.264硬件解码、编码、视频处理
 - 13.SATA SSD Trim
- 
-### 待测试解决
-
-- 1.双屏显示 待测试
-- 2.开启HWP  待测试
-- 3.Micro SD卡驱动 待解决
-
-## 工具软件
-
-- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
-- [Hackintool](https://github.com/headkaze/Hackintool)
-- [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
 
 ## 使用说明
 
