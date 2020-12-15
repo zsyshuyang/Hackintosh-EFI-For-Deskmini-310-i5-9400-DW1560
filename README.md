@@ -85,6 +85,7 @@
  - [daliansky](https://github.com/daliansky/)
  - [liminghuang](https://github.com/liminghuang/)
  - [isNextJuly](https://github.com/isNextJuly/)
+ - [appleserial](https://github.com/appleserial/DeskMini)
 
 
 
