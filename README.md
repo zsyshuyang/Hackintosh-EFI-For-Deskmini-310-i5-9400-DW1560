@@ -1,114 +1,94 @@
 # Hackintosh-EFI-For-Deskmini-310-i5-9400
 
-## 前言
+[中文说明](README_ZH.md)
 
-个人自用EFI文件，引用整理了诸多前辈的成果，详细见致谢名单。
+## introduction
 
-## 更新
+EFI document for my own use, citing and sorting out the achievements of many predecessors, see the list of acknowledgements for details.
+
+## update
 
 - 2021-02-02
-	- 升级OC，版本0.6.5
-	- 系统更新至11.2
-	- 升级KEXT
+  - Updated OC to version 0.6.5
+  - System updated to 11.2
+  - upgrade KEXT
 
 - 2020-12-15
-    - 更换成OC引导，版本0.6.4
-    - 系统更新至11.1
+  - Replace with OC boot, version 0.6.4
+  - System updated to 11.1
 
 - 2020-04-21
-    - 更新clover v5113
+  - Update Clover V5113
 
 - 2020-04-11
-    - 安装10.15.4补充更新，无痛升级。
-    
+  - Install the 10.15.4 Supplement Update for a painless upgrade.
+
 - 2020-04-06
-    - 更新Clover_v5108
-    - 更新正式版Lilu_v1.4.3、WhatevenGreen_v1.3.8、AppleALC_v1.4.8
-    - 更新VirtualSMC_v1.1.2、BrcmBluetoothInjector_v2.5.2.kext等
+  - update Clover_v5108
+  - Update the official version lilu_v1.4.3, whatevengreen_v1.3.8, applealc_v1.4.8
+  - Update virtualsmc_v1.1.2, brcmbluetoothinjector_v2.5.2. kext, etc
 
-- 2020-03-31     
-    - 更新WhateverGreen 1.3.8-t3测试版驱动，解决开机、睡眠黑屏问题(mushizhizhi提供)
+- 2020-03-31
+  - Update to WhatEvergreen 1.3.8- T3 Beta Driver, which resolves black screen on startup and sleep (provided by Mushizhizhi)
 
- - 2020-03-26     
-    - 更新Clover 5107   
-    - 更新WhateverGreen 1.3.8
-    - 更新Lilu 1.4.3
+- 020-03-26
+  - Update Clover 5107
+  - Update WhatEvergreen 1.3.8
+  - Update Lilu 1.4.3
 
-## 配置
+## configuration
 
- - CPU: i5-9400
- - 内存：金士顿 DDR4 2666MHz 8GB x 2
- - 硬盘：
-      - 西数SSD M.2 NVME 1T SN550
-      - 西数固态 Blue系列SATA3.0  500G  
-      - 西数机械 蓝盘 1TB 
- - 风扇：猫扇L9i
- - 无线网卡：BCM94352_DW1560_拆机卡
- - 显示器：
-    - 优派23.6寸4K VX2478-4K-HD
+- CPU: i5-9400
+- Memory: Kingston DDR4 2666MHz 8GB x 2
+- Hard drive:
+  - Western Digital SSD M.2 NVME 1T SN550
+  - Western Digital Solid State Blue Series SATA3.0 500G
+  - Western Digital Mechanical Blue Plate 1TB
+- Fan: cat fan L9i
+- Wireless Network Card: BCM94352_DW1560
+- Display:
+  - Viewsonic 23.6 "4K VX2478-4K-HD
 
-## Bios设置（目前P4.4）
+## BIOS Settings (currently P4.4)
 
 - Load UEFI Defaults(F9)
 - Advanced
     - Onboard HD Audio: Enabled
     - USB Configuration, XHCI Hand-off, Enabled
-    - Super IO Configuration, Serial Port, Disabled（必须）
-- Security 
+    - Super IO Configuration, Serial Port, Disabled (Must)
+- Security
     - Secure Boot, Disabled(by default)
-- CSM打开 ，仅UEFI
+- CSM on, UEFI only
 
-- 开启HWP（bios）设置
-   - cpu 芯片组 -> CPU C STATE SUPPORT  ENABLED
-   - CFG Lock   Disabled
+- Enable HWP (BIOS) Settings
+  - CPU chipset -> CPU C STATE SUPPORT ENABLED
+  - CFG Lock -> Disabled
 
-## 工作状态
+## Working status
 
-### 正常工作：
+### Work normally:
 
-- 1.声卡 
-- 2.网卡 
-- 3.蓝牙 
-- 4.Airdrop  
-- 5.接力 
-- 6.App store  
-- 7.睡眠 
-- 8.USB&USB2.0扩展&Type C    
-- 10.cpu 变频测试 
-- 11.核显加速 
-- 12.H.264硬件解码、编码、视频处理
-- 13.SATA SSD Trim
+- 1. The sound card
+- 2. The card
+- 3. Bluetooth
+- 4. Airdrop
+- 5. Relay
+- 6. App store
+- 7. Sleep
+- 8. USB&USB2.0 Extension &Type C
+- 9. CPU frequency conversion test
+- 11. Nuclear acceleration
+- 12. H.264 hardware decoding, encoding, video processing
+- 13. SATA SSD Trim
 
-## 使用说明
+## Instructions for use
 
-- 需重新生成三码
+- Need to regenerate three codes
 
-## 致谢
+## Credits
 
- - [acidanthera](https://github.com/acidanthera)
- - [daliansky](https://github.com/daliansky/)
- - [liminghuang](https://github.com/liminghuang/)
- - [isNextJuly](https://github.com/isNextJuly/)
- - [appleserial](https://github.com/appleserial/DeskMini)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [acidanthera](https://github.com/acidanthera)
+- [daliansky](https://github.com/daliansky/)
+- [liminghuang](https://github.com/liminghuang/)
+- [isNextJuly](https://github.com/isNextJuly/)
+- [appleserial](https://github.com/appleserial/DeskMini)
