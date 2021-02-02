@@ -68,18 +68,18 @@ EFI document for my own use, citing and sorting out the achievements of many pre
 
 ### Work normally:
 
-- 1. The sound card
-- 2. The card
-- 3. Bluetooth
-- 4. Airdrop
-- 5. Relay
-- 6. App store
-- 7. Sleep
-- 8. USB&USB2.0 Extension &Type C
-- 9. CPU frequency conversion test
-- 11. Nuclear acceleration
-- 12. H.264 hardware decoding, encoding, video processing
-- 13. SATA SSD Trim
+- Audio card
+- Network card
+- Bluetooth
+- Airdrop
+- Hand off
+- App store
+- Sleep
+- USB&USB2.0 Extension &Type C
+- CPU frequency conversion test
+- Nuclear acceleration
+- H.264 hardware decoding, encoding, video processing
+- SATA SSD Trim
 
 ## Instructions for use
 
