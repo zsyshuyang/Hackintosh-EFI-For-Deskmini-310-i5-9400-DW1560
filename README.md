@@ -7,6 +7,10 @@
 EFI document for my own use, citing and sorting out the achievements of many predecessors, see the list of acknowledgements for details.
 
 ## update
+- 2021-04-27
+  - Updated OC to version 0.6.8
+  - System updated to 11.3
+  - upgrade KEXT
 
 - 2021-02-02
   - Updated OC to version 0.6.5
