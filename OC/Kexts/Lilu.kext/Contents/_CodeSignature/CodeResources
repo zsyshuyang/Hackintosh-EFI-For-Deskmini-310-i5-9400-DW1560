@@ -5,26 +5,7 @@
 	<key>files</key>
 	<dict/>
 	<key>files2</key>
-	<dict>
-		<key>PlugIns/AirPortBrcm4360_Injector.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			uk0LYKp95HbPlXIpmX2C+FN6cOo=
-			</data>
-			<key>requirement</key>
-			<string>identifier "as.lvs1974.AirportBrcm4360Injector" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Henry Brock (4EJ5YAENFF)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
-		</dict>
-		<key>PlugIns/AirPortBrcmNIC_Injector.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			+aIh5dEfNmr9Ut4pYjs4Mpih1J4=
-			</data>
-			<key>requirement</key>
-			<string>identifier "as.lvs1974.AirportBrcmNICInjector" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Henry Brock (4EJ5YAENFF)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^Resources/</key>

@@ -2,11 +2,17 @@
 
 [中文说明](README_ZH.md)
 
-## introduction
+## Introduction
 
 EFI document for my own use, citing and sorting out the achievements of many predecessors, see the list of acknowledgements for details.
 
-## update
+## Update
+
+- 2021-10-19
+  - Updated OC to version 0.7.4
+  - System updated to 11.6
+  - upgrade KEXT
+
 - 2021-04-27
   - Updated OC to version 0.6.8
   - System updated to 11.3
@@ -40,7 +46,7 @@ EFI document for my own use, citing and sorting out the achievements of many pre
   - Update WhatEvergreen 1.3.8
   - Update Lilu 1.4.3
 
-## configuration
+## Configuration
 
 - CPU: i5-9400
 - Memory: Kingston DDR4 2666MHz 8GB x 2
