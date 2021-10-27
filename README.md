@@ -7,6 +7,9 @@
 EFI document for my own use, citing and sorting out the achievements of many predecessors, see the list of acknowledgements for details.
 
 ## Update
+- 2021-10-27
+  - System updated to 12.0.1
+  - upgrade KEXT
 
 - 2021-10-19
   - Updated OC to version 0.7.4
